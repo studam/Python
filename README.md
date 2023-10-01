@@ -89,7 +89,7 @@ Winner: Khan
 
 
 
-In addition, my final script should both print the analysis to the terminal and export a text file with the results.
+In addition, my final script prints the analysis to the terminal and export a text file with the results.
 
 
 
